@@ -1,1 +1,2 @@
 This game can either be played by hand by swapping out the AI controller with the human controller. If you run it as it is, the AI will guess.
+This edit is for work purposes 
